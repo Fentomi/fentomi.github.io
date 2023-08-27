@@ -1,0 +1,13 @@
+/* BODY */
+body {
+    background-color: black;
+}
+
+/* HEADER */
+.wrapper-header {
+    height: 150px;
+    background-color: blueviolet;
+    margin: 0 auto;
+}
+
+/* HEADER-ITEM */
